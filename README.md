@@ -5,3 +5,4 @@ Data yang diambil:
 - Tahun Terbit
 - Penulis
 - Isi paragraf awal
+Dan menyimpan kedalam csv
