@@ -4,5 +4,6 @@ Data yang diambil:
 - Judul Berita
 - Tahun Terbit
 - Penulis
-- Isi paragraf awal
+- Isi paragraf awal.
+
 Dan menyimpan kedalam csv
